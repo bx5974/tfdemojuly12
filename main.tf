@@ -4,7 +4,7 @@ resource "random_string" "datagen" {
 
 resource "random_integer" "idnum" {
 	min = 10
-	max = 300
+	max = 30
 }
 
 variable "sample" {
