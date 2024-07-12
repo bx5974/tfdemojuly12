@@ -7,5 +7,5 @@ output "myrandstring" {
 }
 
 output "locationout" {
-	value = "${var.location} is now updated"
+	value = "${var.location} is now updated again24"
 }
